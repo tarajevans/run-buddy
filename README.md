@@ -9,4 +9,6 @@ A website that offers fitness training services
 https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Tara Evans
-new line
+
+
+# Run Buddy Inc.
