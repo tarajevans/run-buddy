@@ -11,4 +11,4 @@ https://lernantino.github.io/run-buddy/
 Made with ❤️ by Tara Evans
 
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc 
