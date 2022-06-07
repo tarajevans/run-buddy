@@ -36,7 +36,7 @@ header nav ul {
     list-style: none;
   }
 header nav ul li a {
-    margin: 10px 15px;
+    padding: 10px 15px;
     font-weight: lighter;
     font-size: 1.55vw;
 }
@@ -387,7 +387,7 @@ align-items: center;
         .contact-info > * {
         flex: 0 100%;
       }
-      .contact-form: {
+      .contact-form {
           order: 3;
       }
     }
